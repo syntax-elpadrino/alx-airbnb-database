@@ -98,3 +98,4 @@ Represents communication between users.
 
 # Entity Relationship Diagram
 "C:\Users\LENOVO T14\Desktop\alx_erd.png"
+<img width="653" height="368" alt="alx_erd" src="https://github.com/user-attachments/assets/ea06322d-d510-45be-9dd8-92efaf94bb7f" />
